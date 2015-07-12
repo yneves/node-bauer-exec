@@ -1,0 +1,31 @@
+{
+  "name": "bauer-exec",
+  "version": "0.1.0",
+  "description": "Simple wrapper for child_process.execFile.",
+  "keywords": [
+    "exec",
+    "cmd",
+    "bin"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/yneves/node-bauer-exec",
+  "author": {
+    "name": "Yuri Neves Silveira",
+    "url": "http://yneves.com/",
+    "email": "npm@yneves.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yneves/node-bauer-exec.git"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "mocha": ">=1.0.0"
+  },
+  "dependencies": {
+    "bauer-factory": "^2.0.3"
+  },
+  "main": "lib/index.js"
+}
