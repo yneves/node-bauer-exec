@@ -1,6 +1,6 @@
 {
   "name": "bauer-exec",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Simple wrapper for child_process.execFile.",
   "keywords": [
     "exec",
